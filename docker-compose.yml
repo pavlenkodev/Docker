@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  backend:
+    image: student/tsrv:v1
+    build: .
+    ports:
+    - 9999:9999
