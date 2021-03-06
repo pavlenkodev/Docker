@@ -22,7 +22,6 @@ public class Main {
                     e.printStackTrace();
                 }
             }
-
         } catch (IOException e) {
             e.printStackTrace();
         }
